@@ -21,7 +21,7 @@
 title: Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017
 email: your-email@example.com
 # description: The number of Drug/Narcotic incidents in San Fransico has been decreasing from 2003-2017.  
-This page will analyze and visualize the data of Drug/Narcotic incidents in San Fransico from 2003-2017 and try to find possible reasons for why we see this downward trend in the number of incidents.
+# This page will analyze and visualize the data of Drug/Narcotic incidents in San Fransico from 2003-2017 and try to find possible reasons for why we see this downward trend in the number of incidents.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
