@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #Important: Du må ikke fjerne nogle af de blå, hvis du ikke ønsker de skal fremgå på siden, så lad vær med at skrive noget efter ":"
-title: #Assignment 2
+title: Assignment 2
 email: #your-email@example.com
 description: This site will contain a short data-story based on the work we've done in class so far.
 baseurl: "" # the subpath of your site, e.g. /blog
