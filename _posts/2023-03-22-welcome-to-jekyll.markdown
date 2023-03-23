@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017"
+title: Decreasing number of Drug/Narcotic incidents in San Francisco from 2003-2017
 date:   2023-03-22 08:05:22 +0100
 categories: jekyll update
 ---
